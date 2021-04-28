@@ -1,0 +1,12 @@
+C:\Users\Taracus\source\repos\ATG\ATG.DB\bin\Release\netstandard2.0\ATG.DB.deps.json
+C:\Users\Taracus\source\repos\ATG\ATG.DB\bin\Release\netstandard2.0\ATG.DB.dll
+C:\Users\Taracus\source\repos\ATG\ATG.DB\bin\Release\netstandard2.0\ATG.DB.pdb
+C:\Users\Taracus\source\repos\ATG\ATG.DB\bin\Release\netstandard2.0\ATG.Shared.dll
+C:\Users\Taracus\source\repos\ATG\ATG.DB\bin\Release\netstandard2.0\ATG.Shared.pdb
+C:\Users\Taracus\source\repos\ATG\ATG.DB\obj\Release\netstandard2.0\ATG.DB.csprojAssemblyReference.cache
+C:\Users\Taracus\source\repos\ATG\ATG.DB\obj\Release\netstandard2.0\ATG.DB.AssemblyInfoInputs.cache
+C:\Users\Taracus\source\repos\ATG\ATG.DB\obj\Release\netstandard2.0\ATG.DB.AssemblyInfo.cs
+C:\Users\Taracus\source\repos\ATG\ATG.DB\obj\Release\netstandard2.0\ATG.DB.csproj.CoreCompileInputs.cache
+C:\Users\Taracus\source\repos\ATG\ATG.DB\obj\Release\netstandard2.0\ATG.DB.csproj.CopyComplete
+C:\Users\Taracus\source\repos\ATG\ATG.DB\obj\Release\netstandard2.0\ATG.DB.dll
+C:\Users\Taracus\source\repos\ATG\ATG.DB\obj\Release\netstandard2.0\ATG.DB.pdb

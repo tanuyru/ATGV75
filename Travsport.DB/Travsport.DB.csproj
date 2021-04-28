@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Downloads\EFCore.BulkExtensions-master\EFCore.BulkExtensions-master\EFCore.BulkExtensions\EFCore.BulkExtensions.csproj" />
+    <ProjectReference Include="..\ATG.Shared\ATG.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

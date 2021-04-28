@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Taracus\\source\\repos\\ATG\\Travsport.ML\\Travsport.ML.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Taracus\\Downloads\\EFCore.BulkExtensions-master\\EFCore.BulkExtensions-master\\EFCore.BulkExtensions\\EFCore.BulkExtensions.csproj": {
+      "version": "3.2.3",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taracus\\Downloads\\EFCore.BulkExtensions-master\\EFCore.BulkExtensions-master\\EFCore.BulkExtensions\\EFCore.BulkExtensions.csproj",
+        "projectName": "EFCore.BulkExtensions",
+        "projectPath": "C:\\Users\\Taracus\\Downloads\\EFCore.BulkExtensions-master\\EFCore.BulkExtensions-master\\EFCore.BulkExtensions\\EFCore.BulkExtensions.csproj",
+        "packagesPath": "C:\\Users\\Taracus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taracus\\Downloads\\EFCore.BulkExtensions-master\\EFCore.BulkExtensions-master\\EFCore.BulkExtensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taracus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Taracus\\source\\repos\\ATG\\ATG.Shared\\ATG.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taracus\\source\\repos\\ATG\\ATG.Shared\\ATG.Shared.csproj",
+        "projectName": "ATG.Shared",
+        "projectPath": "C:\\Users\\Taracus\\source\\repos\\ATG\\ATG.Shared\\ATG.Shared.csproj",
+        "packagesPath": "C:\\Users\\Taracus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taracus\\source\\repos\\ATG\\ATG.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taracus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Taracus\\source\\repos\\ATG\\Travsport.DB\\Travsport.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taracus\\source\\repos\\ATG\\Travsport.DB\\Travsport.DB.csproj",
+        "projectName": "Travsport.DB",
+        "projectPath": "C:\\Users\\Taracus\\source\\repos\\ATG\\Travsport.DB\\Travsport.DB.csproj",
+        "packagesPath": "C:\\Users\\Taracus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taracus\\source\\repos\\ATG\\Travsport.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taracus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Taracus\\Downloads\\EFCore.BulkExtensions-master\\EFCore.BulkExtensions-master\\EFCore.BulkExtensions\\EFCore.BulkExtensions.csproj": {
+                "projectPath": "C:\\Users\\Taracus\\Downloads\\EFCore.BulkExtensions-master\\EFCore.BulkExtensions-master\\EFCore.BulkExtensions\\EFCore.BulkExtensions.csproj"
+              },
+              "C:\\Users\\Taracus\\source\\repos\\ATG\\ATG.Shared\\ATG.Shared.csproj": {
+                "projectPath": "C:\\Users\\Taracus\\source\\repos\\ATG\\ATG.Shared\\ATG.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Taracus\\source\\repos\\ATG\\Travsport.ML\\Travsport.ML.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Taracus\\source\\repos\\ATG\\Travsport.ML\\Travsport.ML.csproj",
+        "projectName": "Travsport.ML",
+        "projectPath": "C:\\Users\\Taracus\\source\\repos\\ATG\\Travsport.ML\\Travsport.ML.csproj",
+        "packagesPath": "C:\\Users\\Taracus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taracus\\source\\repos\\ATG\\Travsport.ML\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Taracus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Taracus\\source\\repos\\ATG\\Travsport.DB\\Travsport.DB.csproj": {
+                "projectPath": "C:\\Users\\Taracus\\source\\repos\\ATG\\Travsport.DB\\Travsport.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "Microsoft.ML.AutoML": {
+              "target": "Package",
+              "version": "[0.17.2, )"
+            },
+            "Microsoft.ML.FastTree": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

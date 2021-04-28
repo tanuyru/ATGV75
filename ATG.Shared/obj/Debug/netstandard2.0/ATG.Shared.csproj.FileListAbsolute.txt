@@ -1,0 +1,9 @@
+C:\Users\Taracus\source\repos\ATG\ATG.Shared\bin\Debug\netstandard2.0\ATG.Shared.deps.json
+C:\Users\Taracus\source\repos\ATG\ATG.Shared\bin\Debug\netstandard2.0\ATG.Shared.dll
+C:\Users\Taracus\source\repos\ATG\ATG.Shared\bin\Debug\netstandard2.0\ATG.Shared.pdb
+C:\Users\Taracus\source\repos\ATG\ATG.Shared\obj\Debug\netstandard2.0\ATG.Shared.csprojAssemblyReference.cache
+C:\Users\Taracus\source\repos\ATG\ATG.Shared\obj\Debug\netstandard2.0\ATG.Shared.AssemblyInfoInputs.cache
+C:\Users\Taracus\source\repos\ATG\ATG.Shared\obj\Debug\netstandard2.0\ATG.Shared.AssemblyInfo.cs
+C:\Users\Taracus\source\repos\ATG\ATG.Shared\obj\Debug\netstandard2.0\ATG.Shared.dll
+C:\Users\Taracus\source\repos\ATG\ATG.Shared\obj\Debug\netstandard2.0\ATG.Shared.pdb
+C:\Users\Taracus\source\repos\ATG\ATG.Shared\obj\Debug\netstandard2.0\ATG.Shared.csproj.CoreCompileInputs.cache

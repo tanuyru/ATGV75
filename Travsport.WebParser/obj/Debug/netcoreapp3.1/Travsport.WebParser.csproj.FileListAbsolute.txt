@@ -1,0 +1,12 @@
+C:\Users\Taracus\source\repos\ATG\Travsport.WebParser\bin\Debug\netcoreapp3.1\Travsport.WebParser.deps.json
+C:\Users\Taracus\source\repos\ATG\Travsport.WebParser\bin\Debug\netcoreapp3.1\Travsport.WebParser.dll
+C:\Users\Taracus\source\repos\ATG\Travsport.WebParser\obj\Debug\netcoreapp3.1\Travsport.WebParser.csprojAssemblyReference.cache
+C:\Users\Taracus\source\repos\ATG\Travsport.WebParser\obj\Debug\netcoreapp3.1\Travsport.WebParser.AssemblyInfoInputs.cache
+C:\Users\Taracus\source\repos\ATG\Travsport.WebParser\obj\Debug\netcoreapp3.1\Travsport.WebParser.AssemblyInfo.cs
+C:\Users\Taracus\source\repos\ATG\Travsport.WebParser\bin\Debug\netcoreapp3.1\Travsport.WebParser.pdb
+C:\Users\Taracus\source\repos\ATG\Travsport.WebParser\obj\Debug\netcoreapp3.1\Travsport.WebParser.csproj.CoreCompileInputs.cache
+C:\Users\Taracus\source\repos\ATG\Travsport.WebParser\obj\Debug\netcoreapp3.1\Travsport.WebParser.dll
+C:\Users\Taracus\source\repos\ATG\Travsport.WebParser\obj\Debug\netcoreapp3.1\Travsport.WebParser.pdb
+C:\Users\Taracus\source\repos\ATG\Travsport.WebParser\bin\Debug\netcoreapp3.1\ATG.Shared.dll
+C:\Users\Taracus\source\repos\ATG\Travsport.WebParser\bin\Debug\netcoreapp3.1\ATG.Shared.pdb
+C:\Users\Taracus\source\repos\ATG\Travsport.WebParser\obj\Debug\netcoreapp3.1\Travsport.WebParser.csproj.CopyComplete

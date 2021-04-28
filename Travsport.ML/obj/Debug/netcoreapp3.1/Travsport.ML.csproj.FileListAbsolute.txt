@@ -1,0 +1,16 @@
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\bin\Debug\netcoreapp3.1\Travsport.ML.deps.json
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\bin\Debug\netcoreapp3.1\Travsport.ML.dll
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\bin\Debug\netcoreapp3.1\Travsport.ML.pdb
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\bin\Debug\netcoreapp3.1\ATG.Shared.dll
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\bin\Debug\netcoreapp3.1\Travsport.DB.dll
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\bin\Debug\netcoreapp3.1\Travsport.DB.pdb
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\bin\Debug\netcoreapp3.1\ATG.Shared.pdb
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\obj\Debug\netcoreapp3.1\Travsport.ML.csprojAssemblyReference.cache
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\obj\Debug\netcoreapp3.1\Travsport.ML.AssemblyInfoInputs.cache
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\obj\Debug\netcoreapp3.1\Travsport.ML.AssemblyInfo.cs
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\obj\Debug\netcoreapp3.1\Travsport.ML.csproj.CopyComplete
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\obj\Debug\netcoreapp3.1\Travsport.ML.dll
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\obj\Debug\netcoreapp3.1\Travsport.ML.pdb
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\bin\Debug\netcoreapp3.1\EFCore.BulkExtensions.dll
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\bin\Debug\netcoreapp3.1\EFCore.BulkExtensions.pdb
+C:\Users\Taracus\source\repos\ATG\Travsport.ML\obj\Debug\netcoreapp3.1\Travsport.ML.csproj.CoreCompileInputs.cache
